@@ -2,7 +2,7 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18485850)
 # Ultra Bungee Website Project
 Starter code for the Ultra Bungee project. 
-After you accept this assignment, you will be working in your own copy (fork) of this repo.
+After you accept this assignment, you will be working in your own copy (fork) of this repo1.
 
 **Submission** - you should **commit changes to your repo regularly**. At least once per session.  
 This will ensure that you have a record of regular contributions to show your progress!
